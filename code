@@ -1,0 +1,29 @@
+using System;
+
+public class PrimeChecker
+{
+    public static bool IsPrime(int n)
+    {
+        // Учитываем особые случаи: 0, 1 и отрицательные числа не являются простыми
+        if (n <= 1) return false;
+        
+        // 2 — единственное четное простое число
+        if (n == 2) return true;
+        
+        // Исключаем все остальные четные числа
+        if (n % 2 == 0) return false;
+        
+        // Проверяем нечетные делители от 3 до квадратного корня из n
+        for (int i = 3; i * i <= n; i += 2)
+        {
+            if (n % i == 0) return false;
+        }
+        
+        return true;
+    }
+
+    public static void Main()
+    {
+
+    }
+}

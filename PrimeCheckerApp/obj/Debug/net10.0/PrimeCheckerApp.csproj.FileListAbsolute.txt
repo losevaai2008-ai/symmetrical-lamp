@@ -1,0 +1,15 @@
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/bin/Debug/net10.0/PrimeCheckerApp
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/bin/Debug/net10.0/PrimeCheckerApp.deps.json
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/bin/Debug/net10.0/PrimeCheckerApp.runtimeconfig.json
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/bin/Debug/net10.0/PrimeCheckerApp.dll
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/bin/Debug/net10.0/PrimeCheckerApp.pdb
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.AssemblyInfoInputs.cache
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.AssemblyInfo.cs
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.csproj.CoreCompileInputs.cache
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.sourcelink.json
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.dll
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/refint/PrimeCheckerApp.dll
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.pdb
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/PrimeCheckerApp.genruntimeconfig.cache
+/workspaces/symmetrical-lamp/symmetrical-lamp/PrimeCheckerApp/obj/Debug/net10.0/ref/PrimeCheckerApp.dll

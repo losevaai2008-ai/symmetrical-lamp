@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PrimeCheckerApp.Tests/PrimeCheckerApp.Tests.csproj" />
+  <Project Path="PrimeCheckerApp/PrimeCheckerApp.csproj" />
+</Solution>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeCheckerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9cc3275e07f0fec7910b45259841bade7460a7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0988cbf8b17681b27fc4043637c37669bd608434")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeCheckerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeCheckerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
